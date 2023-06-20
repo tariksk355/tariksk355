@@ -111,9 +111,8 @@
 <img width="350" align="right" alt="coder.gif" src="images.jpeg"/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tariksk355&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tariksk355&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tariksk355&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
