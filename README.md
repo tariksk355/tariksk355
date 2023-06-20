@@ -108,7 +108,7 @@
 </p>
 
 
-
+<img width="350" align="right" alt="coder.gif" src="images.jpeg" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tariksk355&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
