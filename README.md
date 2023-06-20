@@ -108,7 +108,6 @@
 </p>
 
 
-<img width="350" align="right" alt="coder.gif" src="images.jpeg"/>
 
 
 
