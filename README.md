@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at __https://github.com/tariksk355__
 - 💬 Ask me about __AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Maven, Prometheus, Grafana__
 - 📫 How to reach me: __tarikyegen35@gmail.com__
-- 📄 Know about my experiences __https://www.linkedin.com/in/tarik-yegen-3729b11a0/
+- 📄 Know about my experiences: https://www.linkedin.com/in/tarik-yegen-3729b11a0/
 - 📄 Read my articles: https://medium.com/@tarikyegen35
 
 
