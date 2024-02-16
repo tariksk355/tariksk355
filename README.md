@@ -7,7 +7,7 @@
 </p>
 
 
-- 🌱 I’m __AWS Solutions Architect / DevOps Engineer__
+- 🌱 I’m __AWS Solutions Architect / DevSecOps Engineer__
 - 👨‍💻 All of my projects are available at __https://github.com/tariksk355__
 - 💬 Ask me about __AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, GitLab, Maven, Prometheus, Grafana__
 - 📫 How to reach me: __tarikyegen35@gmail.com__
